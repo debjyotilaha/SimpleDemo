@@ -1,0 +1,4 @@
+1.create an account in github
+2.create a repo
+3.initialize in local m/c
+4.add
